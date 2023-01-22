@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1673864953 source:c:\amd\dido\affichageassociee.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1673864086 c:\amd\dido\structeurs.h
+
+1673864086 source:c:\amd\dido\affichagee.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1673865125 source:c:\amd\dido\ajout.c
+	<stdio.h>
+	<stdlib.h>
+	"Structeurs.h"
+	<windows.h>
+
+1673865111 source:c:\amd\dido\chargerr.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1673860841 source:c:\amd\dido\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1673861305 c:\amd\dido\prototypes.h
+	"Structeurs.h"
+
+1673858730 source:c:\amd\dido\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1673861367 source:c:\amd\dido\menuu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Structeurs.h"
+
+1673879323 source:c:\amd\dido\modifierr.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1527591883 source:c:\amd\dido\preparationfichier.c
+	<stdio.h>
+	<stdlib.h>
+	"Structeurs.h"
+	<windows.h>
+
+1673865253 source:c:\amd\dido\sauvgardee.c
+	<stdio.h>
+	<stdlib.h>
+	"Structeurs.h"
+	<windows.h>
+
+1673851075 source:c:\amd\dido\supprimerr.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1673861323 source:c:\amd\dido\tri.c
+	<stdio.h>
+	<string.h>
+	"Structeurs.h"
+	<windows.h>
+
+1673864953 source:c:\amd\dido\repertoiretelephonique\affichageassociee.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1673864086 c:\amd\dido\repertoiretelephonique\structeurs.h
+
+1673864086 source:c:\amd\dido\repertoiretelephonique\affichagee.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1673865125 source:c:\amd\dido\repertoiretelephonique\ajout.c
+	<stdio.h>
+	<stdlib.h>
+	"Structeurs.h"
+	<windows.h>
+
+1673865111 source:c:\amd\dido\repertoiretelephonique\chargerr.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1673860841 source:c:\amd\dido\repertoiretelephonique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1673861305 c:\amd\dido\repertoiretelephonique\prototypes.h
+	"Structeurs.h"
+
+1673858730 source:c:\amd\dido\repertoiretelephonique\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1673861367 source:c:\amd\dido\repertoiretelephonique\menuu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Structeurs.h"
+
+1673879323 source:c:\amd\dido\repertoiretelephonique\modifierr.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1527591883 source:c:\amd\dido\repertoiretelephonique\preparationfichier.c
+	<stdio.h>
+	<stdlib.h>
+	"Structeurs.h"
+	<windows.h>
+
+1673865253 source:c:\amd\dido\repertoiretelephonique\sauvgardee.c
+	<stdio.h>
+	<stdlib.h>
+	"Structeurs.h"
+	<windows.h>
+
+1673851075 source:c:\amd\dido\repertoiretelephonique\supprimerr.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1673861323 source:c:\amd\dido\repertoiretelephonique\tri.c
+	<stdio.h>
+	<string.h>
+	"Structeurs.h"
+	<windows.h>
+
